@@ -1,7 +1,6 @@
-# FGPL
+# FGPL/FGPL-A
 
 ## FGPL: Fine-Grained Predicates Learning for Scene Graph Generation. In CVPR 2022.
-
 <div align=center><img width="900" height="450" src="./FGPL.png"/></div>
 
 
