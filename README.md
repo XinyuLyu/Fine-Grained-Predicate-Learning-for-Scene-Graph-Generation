@@ -3,9 +3,14 @@
 FGPL: Fine-Grained Predicates Learning for Scene Graph Generation.
 In CVPR 2022.
 
-![](./demo/Lab2Pix-V2_demo.png)
+![](./FGPL.png)
 
 FGPL-A: Adaptive Fine-Grained Predicates Learning for Scene Graph Generation.
+In TPAMI (Under Rewiew)
+![](./FGPL-A.png)
+
+Results
+![](./Results.png)
 
 ## FGPL
 
