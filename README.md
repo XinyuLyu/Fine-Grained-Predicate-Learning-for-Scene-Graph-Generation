@@ -5,7 +5,7 @@
 
 
 ## FGPL-A: Adaptive Fine-Grained Predicates Learning for Scene Graph Generation. In TPAMI (Under Rewiew)
-<div align=center><img width="900" height="450" src="./FGPL-A.png"/></div>
+<div align=center><img width="900" height="450" src="./FGPL_A.png"/></div>
 
 ## Results
 
